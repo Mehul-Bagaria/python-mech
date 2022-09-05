@@ -1,4 +1,5 @@
 # python-mech
+
 Python code for Mechanical Engineering concepts
 
 This repository contains the Python code for various mechanical engineering applications.
@@ -6,3 +7,4 @@ This repository contains the Python code for various mechanical engineering appl
 List of code - 
 
 * 1_mohr_circle
+* 2_projectile_motion
