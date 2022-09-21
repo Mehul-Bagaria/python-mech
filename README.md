@@ -8,3 +8,4 @@ List of code -
 
 * 1_mohr_circle
 * 2_projectile_motion
+* 3_failure_theories
