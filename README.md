@@ -4,8 +4,7 @@ Python code for Mechanical Engineering concepts
 
 This repository contains the Python code for various mechanical engineering applications.
 
-List of code - 
-
+**List of code -**
 | Title         | Description    | Remark |
 | ------------- | -------------- | ------ |
 |1_mohr_circle |Python code that plots Mohr circle for given planar stress system and gives the principal stresses and maximum shear stress values.|        |
