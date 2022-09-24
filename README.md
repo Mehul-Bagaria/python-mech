@@ -6,6 +6,12 @@ This repository contains the Python code for various mechanical engineering appl
 
 List of code - 
 
-* 1_mohr_circle
+* 
 * 2_projectile_motion
 * 3_failure_theories
+
+| Title         | Description    | Remark |
+| ------------- | -------------- | ------ |
+| 1_mohr_circle | Python code to |        |
+|               |                |        |
+|               |                |        |
